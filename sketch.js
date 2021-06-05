@@ -97,7 +97,7 @@ function draw() {
   }
 
   // Display Score
-  fill('black');
+  fill(225);
   text('Score:', 40, 23);
   text(score, 70, 23);
 
